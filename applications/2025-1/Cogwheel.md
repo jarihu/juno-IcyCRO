@@ -50,3 +50,16 @@ We were mostly voting on all proposals except proposal 362. We felt the communit
 ### Community
 
 N/A
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 4 | REST endpoint not working - ping pub fork - useful docs |
+| Testnet Infra Points | 4 | REST endpoint not working - ping pub fork - useful docs |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | n/a |
+| Open Points | 0 | n/a |
+| **Total Points** | **10** | |
+| **Expected Delegation** | **221893.4911** | |

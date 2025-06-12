@@ -79,3 +79,16 @@ Write here if you did anything that you think should be compensated with a deleg
 ## Notes
 
 Write here if you have additional notes for the reviewer committee.
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 10 | Everything but relayers |
+| Testnet Infra Points | 10 | Everything also on testnet. |
+| Governance Points | 4 | Voting all proposals + twitter |
+| Community Points | 2 | General engagement, not super specific to juno |
+| Open Points | 0 | n/a |
+| **Total Points** | **26** | |
+| **Expected Delegation** | **576923.0769** | |

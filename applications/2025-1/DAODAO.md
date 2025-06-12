@@ -45,3 +45,16 @@ Are you providing any service for the Juno Mainnet? RPCs, Relayers, Archive node
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
 | Governance votes       | We are voting all the governance proposals                                              | [Validator SubDAO](https://daodao.zone/dao/juno185hgkqs8q8ysnc8cvkgd8j2knnq2m0ah6ae73gntv9ampgwpmrxqc5vwdr/proposals) | Since we use our own smart contracts to vote, explorers don't pick up our voting.  You can search the Validator subDAO (url) to see how we've voted since Sept 2023                   |
 | Other                  | On occassion we create new proposals                                                                            |  [Prop 356](https://daodao.zone/dao/juno/proposals/356)             |                    |
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 25 | The best DAO app ever, they are not paid to run it and indexers are expensive. Additionally they are always ready to implement new stuf and fixing bugs. |
+| Mainnet Infra Points | 4 | Custom indexer |
+| Testnet Infra Points | 4 | Custom indexer |
+| Governance Points | 3 | Voting all proposals, occasionally sharing on twitter |
+| Community Points | 0 | n/a |
+| Open Points | 0 | n/a |
+| **Total Points** | **36** | |
+| **Expected Delegation** | **798816.568** | |

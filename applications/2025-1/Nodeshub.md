@@ -90,3 +90,16 @@ We see Juno not just as a network we validate, but as a community we are proud t
 | Name | Description | Relevant URLs | Additional Details |
 | ---- | ----------- | ------------- | ------------------ |
 | N/A  |             |               |                    |
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | Private submissions are not eligible for points |
+| Mainnet Infra Points | 15 | They do everything, and it works |
+| Testnet Infra Points | 10 | Everything also on testnet. |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | n/a |
+| Open Points | 0 | n/a |
+| **Total Points** | **27** | |
+| **Expected Delegation** | **599112.426** | |

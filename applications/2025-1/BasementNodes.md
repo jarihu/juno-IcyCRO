@@ -75,3 +75,16 @@ Write here if you did anything that you think should be compensated with a deleg
 Write here if you have additional notes for the reviewer committee.
 
 Sorry for the late submission. Hopefully I didn't miss it by a week like the first one where I launched my node a week too late.
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 10 | Basic OTC swap interface, deployed directly on juno. Giving some points to incentivize the improvment of it |
+| Mainnet Infra Points | 2 | Endpoints with proven stats - Archive node not considered since it's not public |
+| Testnet Infra Points | 4 | Endpoints with stats + running a validator |
+| Governance Points | 2 | Voting all proposals - missing links for community egagement |
+| Community Points | 2 | Giving some points for the help on discord. Moved from open category to here |
+| Open Points | 0 | n/a |
+| **Total Points** | **20** | |
+| **Expected Delegation** | **443786.9822** | |

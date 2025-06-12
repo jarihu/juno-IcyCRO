@@ -104,3 +104,16 @@ We’re excited to contribute, collaborate, and grow together with the blockchai
 ### Notes
 
 We are already actively involved in Quicksilver Foundation Committees and would be delighted to further contribute our ideas, technical know-how, and community perspective to the ongoing development of Juno. We see this as a great opportunity to help strengthen the ecosystem.
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 15 | They do everything, and it works |
+| Testnet Infra Points | 10 | Everything also on testnet. |
+| Governance Points | 4 | Voting all proposals , sharing on twitter and custom dashboard |
+| Community Points | 4 | Actively helping on validator discord channels + medium articles |
+| Open Points | 0 | 0 points for now but we can talk! |
+| **Total Points** | **33** | |
+| **Expected Delegation** | **732248.5207** | |

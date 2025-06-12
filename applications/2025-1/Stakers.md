@@ -57,3 +57,16 @@ Write here if you did anything that you think should be compensated with a deleg
 | N/A  | N/A         | N/A           |                    |
 
 
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 0 | n/a |
+| Testnet Infra Points | 2 | Validator only |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | n/a |
+| Open Points | 0 | n/a |
+| **Total Points** | **4** | |
+| **Expected Delegation** | **88757.39645** | |

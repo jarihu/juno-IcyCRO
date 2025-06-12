@@ -77,3 +77,16 @@ Write here if you did anything that you think should be compensated with a deleg
 ## Notes
 
 N/A
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 15 | NFT Launchpad + OG independent dao on juno |
+| Mainnet Infra Points | 0 | n/a |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 10 | Voting all proposals and very active community |
+| Community Points | 8 | Great community initiatives |
+| Open Points | 10 | Additional points for the great passion and work they are putting to keep NETA alive. |
+| **Total Points** | **43** | |
+| **Expected Delegation** | **954142.0118** | |

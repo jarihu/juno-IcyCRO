@@ -28,3 +28,16 @@ Fill this table to indicate your activity on juno governance
 | Name                   | Description                                                                             | Relevant URLs | Additional Details                                                               |
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------- |
 | Governance votes       | We are voting all the governance proposals                                              | https://explorer.chainroot.io/juno/validators/junovaloper1aevx3gfvvdce60ql75fp6j4fzj42lru9h0vhqq |   
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 0 | n/a |
+| Testnet Infra Points | 2 | Only running a validator |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | n/a |
+| Open Points | 0 | n/a |
+| **Total Points** | **4** | |
+| **Expected Delegation** | **88757.39645** | |

@@ -44,3 +44,16 @@ Meria operates a Juno validator since 2023 and listed the tokens on our CEX plat
 | ----------- | ----------- | ------------- | ------------------ |
 | Meria Academy  | We promote Juno Network to our community by building educational contents | https://www.meria.com/en/academy/nos-cryptos/quest-ce-que-juno-network- https://www.meria.com/products/buy/JUNO https://www.meria.com/price/JUNO          |                    |
 | X Posts  | We promote Juno Network to our community by building educational contents | https://x.com/Meria_Finance/status/1643898713163661313 https://x.com/Meria_Finance/status/1575471399036141568 https://x.com/Meria_Finance/status/1636021898252255233  |                    |
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 5 | Building a defi yield generation app. Still wip. |
+| Mainnet Infra Points | 0 | only running validator doesn't award any points |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 4 | Twitter activity, a few articles |
+| Open Points | 0 | n/a |
+| **Total Points** | **11** | |
+| **Expected Delegation** | **244082.8402** | |

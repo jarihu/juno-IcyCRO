@@ -46,3 +46,15 @@ Write here if you did anything that you think should be compensated with a deleg
 ## Notes
 
 Team is building https://cosmicagenda.vercel.app which is an aggregator of cosmos related twitter spaces - can help promote Juno Twitter spaces or community calls going forward.
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 0 | n/a |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 4 | Voting all proposals and sharing on social |
+| Community Points | 2 | Twitter engagement |
+| Open Points | 2 | Fun lottery game, even tho is only for their stakers. |
+| **Total Points** | **8** | |
+| **Expected Delegation** | **177514.7929** | |

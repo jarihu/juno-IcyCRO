@@ -50,3 +50,16 @@ For example, twitter posts, blog articles, youtube videos, any other social cont
 ## Notes
 
 We will be onboarding to testnet and will help with additional infrastructure as needed.
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 10 | Endpoints + relayers + useful docs |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 4 | Community engagement |
+| Open Points | 0 | n/a |
+| **Total Points** | **16** | |
+| **Expected Delegation** | **355029.5858** | |

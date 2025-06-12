@@ -28,3 +28,16 @@ We have been validating CosmosSDK networks for 3 years, using the Akash Network 
 | Name                   | Description                                                                             | Relevant URLs | Additional Details |
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
 | Governance votes       | We are voting all the governance proposals                                              | https://explorer.chainroot.io/juno/validators/junovaloper1ax4c40gn3s74xxm75g6cmts3fw7rq64gweqg8q |                    |
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 2 | Only the ping pub fork link works. RPC gives error 500, statesync can't connect, snapshot 404 |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | n/a |
+| Open Points | 0 | n/a |
+| **Total Points** | **4** | |
+| **Expected Delegation** | **88757.39645** | |

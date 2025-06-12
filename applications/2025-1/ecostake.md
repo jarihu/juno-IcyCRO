@@ -40,3 +40,15 @@ ECO Stake has been a validator for over 3 years, with a focus on building useful
 | Name | Description | Relevant URLs | Additional Details |
 | ---- | ----------- | ------------- | ------------------ |
 | Climate support | 10% of our commission is donated to climate causes, with thousands of tonnes of CO2 offset among other climate support  | https://app.regen.network/profiles/regen1jxm6xddgnhjyzpcx8hycp0ffu27497pmmwvwjn/portfolio |                    |
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | They submitted some dashboards, moving it the the "open" category. Those are not real dapps. |
+| Mainnet Infra Points | 2 | RPC & rest are proxed from their cosmos.directory - Container images are useful. |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | n/a |
+| Open Points | 5 | Restake & cosmos directory are great tools |
+| **Total Points** | **9** | |
+| **Expected Delegation** | **199704.142** | |

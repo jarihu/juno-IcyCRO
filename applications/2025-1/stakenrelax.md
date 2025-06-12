@@ -60,3 +60,16 @@ Supported the Juno Comms DAO and we are active in the Delegation DAO.
 ## Notes
 
 Juno was the first Mainnet Network, which we activly Validated - therefore Juno has a special place in Wookies heart.
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 15 | They do everything, and it works |
+| Testnet Infra Points | 4 | Validator & explorer |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 2 | Basic community engagement |
+| Open Points | 4 | They often help running tests on uni-6 / uni-7 |
+| **Total Points** | **27** | |
+| **Expected Delegation** | **599112.426** | |

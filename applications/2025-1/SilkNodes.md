@@ -55,3 +55,16 @@ Write here if you did anything that you think should be compensated with a deleg
 | Discord validator-services bot |  A fully automated range of service provided by Silk Nodes Validators for Juno. | [Guide on how to use](https://docs.silknodes.io/validator-tools-guide/commands/validator-services)           |                    |
 | Validator Alerts | Get Juno validator status alerts or if you're are validator get them straight to your own Discord! | [Guide on how to use](https://docs.silknodes.io/validator-tools-guide/commands/)           |                    |
 | Juno Price Bot | How the Juno price in any discord server at all times | [Guide on how to use](https://silknodes.io/discord-bot)           |                    |
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 10 | Everything but relayers |
+| Testnet Infra Points | 4 | Validator & explorer |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | n/a |
+| Open Points | 5 | Multiple discord bots for various toolings |
+| **Total Points** | **21** | |
+| **Expected Delegation** | **465976.3314** | |

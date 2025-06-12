@@ -51,3 +51,16 @@ The Zen Lounge Juno Validator is a secure and sovereign bare metal validator tha
 ## Notes
 
 | Dragonmonk111 and ZenLounge have been supporting every developer/team building on Juno since years by positive engagement on Twitter and other forums. |
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 0 | n/a |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 2 | Voting all proposals, twitter posts are old |
+| Community Points | 2 | Youtube videos but quite old |
+| Open Points | 0 | already submitted |
+| **Total Points** | **4** | |
+| **Expected Delegation** | **88757.39645** | |

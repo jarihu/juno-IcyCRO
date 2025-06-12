@@ -26,3 +26,16 @@ Chill Validation is a long term validator for Juno.  We focus on security relate
 | Name | Description | Relevant URLs | Additional Details |
 | ---- | ----------- | ------------- | ------------------ |
 | PR 1152 | CV: support cosmos ledger app protocol update | https://github.com/CosmosContracts/juno/pull/1152          |  Ledger Integration is broken and requires a protocol update.  Chill Validation invested team  resources into isolating the issue, testing the fix and submitting a PR                   |
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 0 | n/a |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 4 | Voting all proposals,custom dashboard |
+| Community Points | 0 | n/a |
+| Open Points | 2 | Minor core contribution |
+| **Total Points** | **6** | |
+| **Expected Delegation** | **133136.0947** | |

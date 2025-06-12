@@ -39,3 +39,16 @@ Fill this table to indicate your activity on juno governance
 | Name   | Description | Relevant URLs |
 |--------|-------------|----------------|
 | Discord | We host a Juno service that auto-posts on-chain proposals to Discord with essential links, tags the right role, and flags malicious proposals — saving the team from manual updates  | https://discord.com/channels/816256689078403103/939713550732120145/1357004152818892892 |
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 0 | endpoints not working |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 4 | Voting all proposals & twitter share |
+| Community Points | 0 | n/a |
+| Open Points | 2 | Governance bot on discord |
+| **Total Points** | **6** | |
+| **Expected Delegation** | **133136.0947** | |

@@ -66,3 +66,16 @@ For example, twitter posts, blog articles, youtube videos, any other social cont
 ## Notes
 
 # Success and good luck to all, from the OwlStake Team!
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | They submitted some dashboards, moving it the the "open" category. Those are not real dapps. |
+| Mainnet Infra Points | 10 | Everything but relayers |
+| Testnet Infra Points | 5 | Endpoints and ping.pub fork |
+| Governance Points | 0 | n/a |
+| Community Points | 0 | n/a |
+| Open Points | 2 | Useful dashboards |
+| **Total Points** | **17** | |
+| **Expected Delegation** | **377218.9349** | |

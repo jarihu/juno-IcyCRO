@@ -46,3 +46,15 @@ In addition, we aim to attract newcomers to the crypto field and raise the aware
 | Name        | Description | Relevant URLs | Additional Details |
 | ----------- | ----------- | ------------- | ------------------ |
 | Medium blog | Description | [Stakeflow blog](https://blog.stakeflow.io/) | Our team makes education content about the Cosmos ecosystem |
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 15 | Relayers and endpoints work. Custom block explorer, with limited functionalities but nice! |
+| Testnet Infra Points | 10 | Endpoints work. Custom block explorer, with limited functionalities but nice! |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 2 | Some medium articles |
+| Open Points | 0 | n/a |
+| **Total Points** | **29** | |
+| **Expected Delegation** | **643491.1243** | |

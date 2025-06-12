@@ -83,3 +83,16 @@ For example, twitter posts, blog articles, youtube videos, any other social cont
 ## Notes
 
 # STAVR Team wishes everyone success and good luck
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | They submitted some dashboards, moving it the the "open" category. Those are not real dapps. |
+| Mainnet Infra Points | 15 | They do everything, and it works |
+| Testnet Infra Points | 10 | Everything also on testnet. |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 2 | Actively helping on validator discord channels |
+| Open Points | 4 | They provide some useful dashboards for juno peers nodes etc. |
+| **Total Points** | **33** | |
+| **Expected Delegation** | **732248.5207** | |

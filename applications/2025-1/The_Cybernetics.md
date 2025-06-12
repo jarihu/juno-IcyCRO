@@ -68,3 +68,16 @@ Our social-media contributions to grow the Juno community. These are a few highl
 | The_Cybernetics | Working Group support                                                                                                                                                                                                                                                                                                    | [Link](https://x.com/CyberneticsOrg/status/1686673079781486592?t=HxeKDt6cQyNGQoLhz6O0MA&s=19) |                    |
 | The_Cybernetics | Junoversity amplification                                                                                                                                                                                                                                                                                                | [Link](https://x.com/CyberneticsOrg/status/1653709867452882944?t=Hyevc7mj_w4NU8wAgD06pw&s=19) |                    |
 | In general  | These are just a few of The_Cybernetics' posts on social media. Both [The_Cybernetics](https://x.com/CyberneticsOrg) and [tøny](https://x.com/tonyler_)(the community lead of The_Cybernetics), have profiles filled with supportive posts about Juno. The posts mentioned above represent only a fraction of their overall content.
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 3 | Relayer only on 2 channels |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 6 | Voting all proposal, very active community |
+| Community Points | 10 | Most active community |
+| Open Points | 0 | n/a |
+| **Total Points** | **19** | |
+| **Expected Delegation** | **421597.6331** | |

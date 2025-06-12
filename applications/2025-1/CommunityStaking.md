@@ -69,3 +69,16 @@ Write here if you did anything that you think should be compensated with a deleg
 ## Notes
 
 Write here if you have additional notes for the reviewer committee.
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 10 | Archive nodes are very expensive, they kept it live for 2years + without ever asking anything. |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 5 | Actively voting proposals and discussing on the forum |
+| Community Points | 2 | Only retweets |
+| Open Points | 0 | n/a |
+| **Total Points** | **17** | |
+| **Expected Delegation** | **377218.9349** | |

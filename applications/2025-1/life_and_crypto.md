@@ -71,3 +71,16 @@ We introduce projects where we are validators.
 | GitBook| Team Gitbook | [Link](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en) ||
 | GitHub | Team GitHub | [Link](https://github.com/Life-and-Crypto) ||
 | Discord | Team Discord | [Link](https://discord.gg/48bcV7S8) ||
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 0 | n/a |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 4 | Voting all proposals, sharing on twitter |
+| Community Points | 8 | Active community sharing juno news |
+| Open Points | 4 | Some nice articles |
+| **Total Points** | **16** | |
+| **Expected Delegation** | **355029.5858** | |

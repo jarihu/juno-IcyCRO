@@ -60,3 +60,16 @@ Fill this table to indicate your activity on juno governance
 | Name                   | Description                                                                             | Relevant URLs | Additional Details |
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
 | Governance votes       | We are voting all the governance proposals                                              | https://explorer.chainroot.io/juno/accounts/juno1z3svprqzmquw6mckh6rgyt0dmd4yhv7c9zzgmp |                    |
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 15 | They do everything, and it works |
+| Testnet Infra Points | 10 | Everything also on testnet. |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | n/a |
+| Open Points | 0 | n/a |
+| **Total Points** | **27** | |
+| **Expected Delegation** | **599112.426** | |

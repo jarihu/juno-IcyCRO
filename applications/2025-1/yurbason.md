@@ -22,3 +22,16 @@ Has successfully participated in many testnets and support the work of my valida
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------ |
 | Governance votes       | We are voting all the governance proposals                                              | https://explorer.chainroot.io/juno/validators/junovaloper15ntrq4rmmd2vtrj5hvczfhqus3v4pqpuxfvj0e |                    |
 
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 0 | n/a |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | n/a |
+| Open Points | 0 | n/a |
+| **Total Points** | **2** | |
+| **Expected Delegation** | **44378.69822** | |

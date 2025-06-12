@@ -75,3 +75,16 @@ Write here if you did anything that you think should be compensated with a deleg
 ## Notes
 
 We have been a genesis validator of Juno and have supported the chain for years. We look forward to ushering Juno into this next stage of its existence by actively contributing in governance and on committees. We will continue to offer premium services through stake-hub at no direct cost.
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | I consider stake hub as an explorer / staking tool. Moving it to infra |
+| Mainnet Infra Points | 6 | RPC and custom staking interface |
+| Testnet Infra Points | 6 | RPC and custom staking interface |
+| Governance Points | 4 | Voting all proposals and discussions on the forum |
+| Community Points | 0 | n/a |
+| Open Points | 8 | Helping the delegations subdao - Helping updating chain registry and other third party repositories |
+| **Total Points** | **24** | |
+| **Expected Delegation** | **532544.3787** | |

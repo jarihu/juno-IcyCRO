@@ -73,3 +73,16 @@ Write here if you did anything that you think should be compensated with a deleg
 ## Notes
 
 Write here if you have additional notes for the reviewer committee.
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 0 | RPC and seed not reachable |
+| Testnet Infra Points | 2 | Running a validator  |
+| Governance Points | 4 | Voting all proposals, voting dashboard with reasoning. Twitter posts are quite old. |
+| Community Points | 4 | Cryptocito supported juno for a long time, but posts talks are quite old now. |
+| Open Points | 0 | n/a |
+| **Total Points** | **10** | |
+| **Expected Delegation** | **221893.4911** | |

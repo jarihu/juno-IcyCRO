@@ -47,3 +47,15 @@ We are validating in [15 networks](https://stake-town.com/#supported-networks) a
 | Name    | Description | Relevant URLs                                   | Additional Details                                                                               |
 |---------|-------------|-------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Twitter | Description | [StakeTown Twitter](https://x.com/staketown_ua) | Our twitter account there we spread through the world important updates in projects we validate. |
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 10 | Everything but explorer |
+| Testnet Infra Points | 8 | Everything but explorer also on testnet |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 2 | Basic community engagement |
+| Open Points | 0 | n/a |
+| **Total Points** | **22** | |
+| **Expected Delegation** | **488165.6805** | |

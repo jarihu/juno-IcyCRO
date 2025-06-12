@@ -47,3 +47,16 @@ Cosmostation is an institutional-grade cryptocurrency infrastructure provider, m
 | ---- | ----------- | ------------- | 
 | Extension | Browser extension supports Juno network | https://chromewebstore.google.com/detail/cosmostation-wallet/fpkhgmpbidmiogeglndfbkegfdlnajnf?utm_source=chrome-ntp-icon          |
 | Mobile Wallet (Android / iOS) | Mobile wallet supports Juno network | https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion&hl=en https://apps.apple.com/us/app/cosmostation/id1459830339 |
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 2 | RPC not working, snapshots ok |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 2 | Voting all proposals, linked x post is from 2022 |
+| Community Points | 2 | Very old stuff |
+| Open Points | 4 | Cosmostation extension and mobile app |
+| **Total Points** | **10** | |
+| **Expected Delegation** | **221893.4911** | |

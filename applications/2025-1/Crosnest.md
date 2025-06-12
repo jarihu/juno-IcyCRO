@@ -69,3 +69,16 @@ Write here if you did anything that you think should be compensated with a deleg
 ## Notes
 
 Write here if you have additional notes for the reviewer committee.
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 15 | Major relayer, validator toolings |
+| Testnet Infra Points | 4 | Validator + dashboard |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | n/a |
+| Open Points | 0 | n/a |
+| **Total Points** | **21** | |
+| **Expected Delegation** | **465976.3314** | |

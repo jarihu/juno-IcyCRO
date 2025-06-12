@@ -54,3 +54,16 @@ Fill this table to indicate your activity on juno governance
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
 | Governance votes       | We vote on all proposals, 99% across interchain                                              | |                    |
 
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | n/a |
+| Mainnet Infra Points | 4 | REST ssl cert error - 2 relayers |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | n/a |
+| Open Points | 0 | n/a |
+| **Total Points** | **6** | |
+| **Expected Delegation** | **133136.0947** | |

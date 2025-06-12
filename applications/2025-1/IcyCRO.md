@@ -61,3 +61,16 @@ For example, twitter posts, blog articles, youtube videos, any other social cont
 ## Notes
 
 We are validator only on 5 chains and we are more than happy to continue supporting JUNO. 
+
+## Review Summary
+
+| Category | Points | Reasoning |
+|----------|---------|-----------|
+| dAPP Points | 0 | Restake app is more like a tools rather than a real dapp |
+| Mainnet Infra Points | 4 | Seels cert missing on RPC, relayers and rescue services |
+| Testnet Infra Points | 0 | n/a |
+| Governance Points | 2 | Voting all proposals |
+| Community Points | 0 | already awarded rescue on another section |
+| Open Points | 0 | n/a |
+| **Total Points** | **6** | |
+| **Expected Delegation** | **133136.0947** | |
